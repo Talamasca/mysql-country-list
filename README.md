@@ -8,6 +8,7 @@ Use this mysql to import a list of countries into your database.
 2. Simple country code and name with InnoDB
 3. Detailed country info (add phonecode)
 4. Simple country code and name in french
+5. Simple city name and post_code
 
 ### The SQL imports contains the following info
 
